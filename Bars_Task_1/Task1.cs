@@ -73,7 +73,7 @@ namespace Bars
         }
         public void Print()
         {
-            Message = "Hello World";
+            Message = "Hello World"; //
             Console.WriteLine("Message");
         }
     }
